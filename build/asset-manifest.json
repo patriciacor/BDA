@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac97606e.css",
+    "main.js": "/static/js/main.70236e22.js",
+    "static/js/787.8568a55d.chunk.js": "/static/js/787.8568a55d.chunk.js",
+    "static/media/Rectangle 602.png": "/static/media/Rectangle 602.af6c027a454354167bc8.png",
+    "static/media/bal.png": "/static/media/bal.b77c0a55a658343d6806.png",
+    "static/media/6.jpeg": "/static/media/6.66d3383454582e6a24b9.jpeg",
+    "static/media/3.jpeg": "/static/media/3.b924a5c2e4aa51018fd0.jpeg",
+    "static/media/4.jpg": "/static/media/4.aaf639cdd09f7bfd5db0.jpg",
+    "static/media/2.jpg": "/static/media/2.8b3660a5f6cb9e8c982c.jpg",
+    "static/media/10.jpg": "/static/media/10.e5cfe74db6fcc2610fb0.jpg",
+    "static/media/7.jpg": "/static/media/7.d504c30a110118e6935d.jpg",
+    "static/media/11.jpeg": "/static/media/11.c02df8fb8aff28e66065.jpeg",
+    "static/media/1.jpg": "/static/media/1.bc5e3b9e4889362e68eb.jpg",
+    "static/media/5.jpg": "/static/media/5.951a39ae1034b9270492.jpg",
+    "static/media/8.jpeg": "/static/media/8.6d326f9c36ddc016ac0b.jpeg",
+    "static/media/9 .jpeg": "/static/media/9 .c2dbb576445e7cfddbca.jpeg",
+    "static/media/header.png": "/static/media/header.87567f434a5b7068935d.png",
+    "static/media/wsLogo.png": "/static/media/wsLogo.cc4d14b073ec62d8b2e9.png",
+    "static/media/isologotipo.png": "/static/media/isologotipo.5ab3dc87536b29b5c8e7.png",
+    "static/media/Carrefour.png": "/static/media/Carrefour.5509f5b39fa2ab39e2c1.png",
+    "static/media/GRANIX.jpg": "/static/media/GRANIX.ac455be94891d8bcbf4d.jpg",
+    "static/media/isologotipo2.png": "/static/media/isologotipo2.fed7895b143363c0282f.png",
+    "static/media/coiron.svg": "/static/media/coiron.9195888f5df53141ed51e0723e89b8d0.svg",
+    "static/media/instagram.svg": "/static/media/instagram.4d969dd141d389ed7a2fe7584b56d681.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.2eda7bddaacee15c44494bb63ca94165.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
+    "main.ac97606e.css.map": "/static/css/main.ac97606e.css.map",
+    "main.70236e22.js.map": "/static/js/main.70236e22.js.map",
+    "787.8568a55d.chunk.js.map": "/static/js/787.8568a55d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac97606e.css",
+    "static/js/main.70236e22.js"
+  ]
+}
